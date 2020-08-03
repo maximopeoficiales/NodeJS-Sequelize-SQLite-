@@ -5,3 +5,5 @@ crea el modelo y la migracion
  npx sequelize db:migrate
  ejecutar todas las semillas
  npx sequelize-cli db:seed:all
+
+ 

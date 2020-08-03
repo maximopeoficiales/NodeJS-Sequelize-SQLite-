@@ -17,5 +17,22 @@
           "titleBar.inactiveBackground": "#21573299",
           "titleBar.inactiveForeground": "#e7e7e799"
      },
-     "peacock.color": "#215732"
+     "peacock.color": "#215732",
+     "sqltools.connections": [
+          {
+               "database": "${workspaceFolder:ProyectoSequilize}/db.sqlite",
+               "driver": "SQLite",
+               "group": "sqlite",
+               "name": "dbsqlite",
+               "previewLimit": 50
+          },
+          {
+               "database": "${workspaceFolder:ProyectoSequilize}/db.sqlite",
+               "driver": "SQLite",
+               "group": "Prueba2",
+               "name": "Prueba2",
+               "previewLimit": 50
+          }
+     ],
+     "sqltools.useNodeRuntime": true
 }

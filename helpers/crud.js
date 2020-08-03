@@ -3,4 +3,5 @@ module.exports = {
   READ: "read",
   UPDATE: "update",
   DELETE: "delete",
+  FINDBYID: "findbyid",
 };

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
+    "maxsql" :"node . --read:Contact"
   },
   "keywords": [],
   "author": "",
